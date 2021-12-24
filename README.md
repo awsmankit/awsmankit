@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @awsmankit
 - 👀 I’m interested in new technologies, personal finance, etc.
 - 🌱 I’m currently learning C and Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m a newbie and I am open for new ideas.
+- 📫 You can reach me on my twitter @awsmankit_
 
 <!---
 awsmankit/awsmankit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
