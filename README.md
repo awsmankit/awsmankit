@@ -23,18 +23,6 @@
 📫 Connect with me via [email](mailto:iamankit497@gmail.com) for insightful discussions and collaborative endeavors. ✉️
 
 
-
-👨‍💻 I'm an enthusiastic **Data Scientist** dedicated to unraveling insights through cutting-edge technology.
-
-🔭 Currently, I'm diving into the intricate world of **LLM (Language and Learning Model)** to extract meaningful patterns.
-
-🌱 Exploring the fascinating territories of **Langchain, Machine Learning, and Deep Learning** keeps my curiosity alive.
-
-💬 Feel free to ignite conversations on **Data Science, LLM, Python, Flask, or any topic** you're passionate about.
-
-📫 Connect with me via [email](mailto:iamankit497@gmail.com) for insightful discussions and collaborative endeavors. ✉️
-
-
 <br/>
 
 <h2 align="center">Connect With Me 🫱🏽‍🫲🏽</h2>
