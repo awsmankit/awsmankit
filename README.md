@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">Exploring Data Horizons: Crafting Insights through Code and Algorithms</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awsmankit" alt="awsmankit" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=awsmankit&label=Profile%20views&color=0e75b6&style=flat" alt="awsmankit" /> </p>
 
 <p align="left"> <a href="https://twitter.com/awsmankit_" target="blank"><img src="https://img.shields.io/twitter/follow/awsmankit_?logo=twitter&style=for-the-badge" alt="awsmankit_" /></a> </p>
 
