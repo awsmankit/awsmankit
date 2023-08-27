@@ -1,71 +1,64 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey+there!+👋;I'm+Ankit+Singh." />
-</div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
-<br>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Salutations!+👋;I'm+Ankit+Singh,";
+</h1>
 
-<div align="center">
-  <a href="https://twitter.com/awsmankit_" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/awsmankit_?label=Follow%20%40awsmankit_&style=social" alt="Twitter Follow">
-  </a>
-</div>
-
-<br>
+<p align="left"> <a href="https://twitter.com/awsmankit_" target="blank"><img src="https://img.shields.io/twitter/follow/awsmankit_?logo=twitter&style=for-the-badge" alt="awsmankit_" /></a> </p>
 
 <div align="center">
-  🚀 Exploring the Data Universe | 🌟 Crafting Code and Insights | 💡 Making Ideas Reality
+  
+  🌌 Exploring the Digital Cosmos 🚀 | Infusing Bits with Brilliance 💡
+
 </div>
 
-<br>
-
-### 🌱 Currently Sprouting:
-- **Languages:** 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-- **Frameworks:** 
-  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
-- **Machine Learning:** 
-  ![Sci-kit Learn](https://img.shields.io/badge/Sci--kit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-
-### 💬 Ask me about:
-- Pythonic Wonders 🐍
-- Building with Flask 🌐
-- Enchanting Machine Learning 🧙‍♂️
-
-### 📫 Reach me:
-- Email: iamankit497@gmail.com
-
-<br>
+<br/>
 
 <div align="center">
-  <a href="https://twitter.com/awsmankit_" target="_blank"><img src="https://img.shields.io/badge/Twitter-%40awsmankit_-blue?style=social&logo=twitter" alt="Twitter"></a>
-  <a href="https://linkedin.com/in/ankitsingh282" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-ankitsingh282-blue?style=social&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://kaggle.com/awsmankitt" target="_blank"><img src="https://img.shields.io/badge/Kaggle-awsmankitt-blue?style=social&logo=kaggle" alt="Kaggle"></a>
-  <a href="https://instagram.com/awsmankit" target="_blank"><img src="https://img.shields.io/badge/Instagram-awsmankit-blue?style=social&logo=instagram" alt="Instagram"></a>
+  <img src="https://media.giphy.com/media/l4KibWpBGvP0eXPYs/giphy.gif" width="300" />
 </div>
 
-<br>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awsmankit&layout=compact&theme=dark" alt="Top Languages">
-</div>
+- 🔭 Crafting a Futuristic Chat App 🌐
+ 
+- 🌱 Unraveling the Secrets of Langchain, Machine Learning, Deep Learning 🕵️‍♂️
 
-<br>
+- 💬 Ask me about **Pythonic Sorcery, Flask Magic, Machine Learning Wizardry ... or anything enchanted 🪄**
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awsmankit&theme=dark" alt="GitHub Streak">
-</div>
+- 📫 Reach me at [iamankit497@gmail.com](mailto:iamankit497@gmail.com) ✉️
 
-<br>
+<br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=awsmankit&show_icons=true&theme=dark" alt="GitHub Stats">
-</div>
+<h2 align="center">Connect With Me 🌐</h2>
 
-<br>
+<p align="center">
+<a href="https://twitter.com/awsmankit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awsmankit_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ankitsingh282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsingh282" height="30" width="40" /></a>
+<a href="https://kaggle.com/awsmankitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="awsmankitt" height="30" width="40" /></a>
+<a href="https://instagram.com/awsmankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awsmankit" height="30" width="40" /></a>
+<a href="https://medium.com/@awsmankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@awsmankit" height="30" width="40" /></a>
+</p>
 
-<div align="center">
-  <h3>Thanks for dropping by! Let's create something amazing together. 🌟</h3>
-</div>
+<br/>
+
+<h2 align="center">⚙️ Languages and Tools ⚙️</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+  <!-- ... other icons ... -->
+</p>
+
+<br/>
+
+<p align="center">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awsmankit&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact" alt="awsmankit" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=awsmankit&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="awsmankit" />
+</p>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+venturing+through!+🚀;Feel+free+to+reach+out+for+a+cosmic+collaboration+:)";
+</h3>
+
+<br/>
