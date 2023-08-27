@@ -9,6 +9,10 @@
 
 - 📫 How to reach me **iamankit497@gmail.com**
 
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/awsmankit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awsmankit_" height="30" width="40" /></a>
@@ -24,5 +28,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=awsmankit&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact" alt="awsmankit" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awsmankit&show_icons=true&theme=onedark&hide_border=true&locale=en" alt="awsmankit" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awsmankit&theme=dark" alt="awsmankit" /></p>
