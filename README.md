@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Python, Flask, Machine Learning ... or anything**
 
-- 📫 Reach me [here](iamankit497@gmail.com)**
+- 📫 Reach me [here](iamankit497@gmail.com)
 
 <br/>
 
