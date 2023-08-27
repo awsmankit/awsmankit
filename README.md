@@ -1,20 +1,27 @@
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
-</div>
-
-<br>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=100&color=F067B4&duration=4000&lines=Hey+There!+👋;I'm+Ankit+Singh!;Crafting+Code+and+Dreams;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Singh!;" />
 </h1>
 
 <br>
 
-<div align="center">
-  <a href="https://twitter.com/awsmankit_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/awsmankit_?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
+<p align="left">
+  <a href="https://twitter.com/awsmankit_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow%20%40awsmankit_-1DA1F2?style=for-the-badge&logo=twitter" alt="Follow me on Twitter" />
   </a>
-</div>
+</p>
+
+👨‍💻 I'm an enthusiastic **Data Scientist** dedicated to unraveling insights through cutting-edge technology.
+
+🔭 Currently, I'm diving into the intricate world of **LLM (Language and Learning Model)** to extract meaningful patterns.
+
+🌱 Exploring the fascinating territories of **Langchain, Machine Learning, and Deep Learning** keeps my curiosity alive.
+
+💬 Feel free to ignite conversations on **Data Science, LLM, Python, Flask, or any topic** you're passionate about.
+
+📫 Connect with me via [email](mailto:iamankit497@gmail.com) for insightful discussions and collaborative endeavors. ✉️
+
 
 
 👨‍💻 I'm an enthusiastic **Data Scientist** dedicated to unraveling insights through cutting-edge technology.
