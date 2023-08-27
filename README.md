@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/awsmankit_" target="blank"><img src="https://img.shields.io/twitter/follow/awsmankit_?logo=twitter&style=for-the-badge" alt="awsmankit_" /></a> </p>
 
-- 💬 Ask me about **python, flask, machine learning**
+- 💬 Ask me about **Python, Flask, Machine Learning**
 
 - 📫 Reach me at **iamankit497@gmail.com**
 
