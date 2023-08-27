@@ -25,9 +25,9 @@
 <br>
 
 ### 🌱 Currently Sprouting:
-- **Languages:** Python, SQL
-- **Frameworks:** Flask, React
-- **Machine Learning:** Sci-kit Learn, TensorFlow
+- **Languages:** ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+- **Frameworks:** ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+- **Machine Learning:** ![Sci-kit Learn](https://img.shields.io/badge/-Sci--kit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 
 ### 💬 Ask me about:
 - Pythonic Wonders 🐍
@@ -50,6 +50,12 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awsmankit&layout=compact&theme=dark" alt="Top Languages">
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awsmankit&theme=dark" alt="GitHub Streak">
 </div>
 
 <br>
