@@ -1,14 +1,21 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+</div>
+
+<br>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Singh!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=45&center=true&vCenter=true&width=600&height=100&color=F067B4&duration=4000&lines=Hey+There!+👋;I'm+Ankit+Singh!;Crafting+Code+and+Dreams;" />
 </h1>
 
-<p align="left">
-  <a href="https://twitter.com/awsmankit_" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-Follow%20%40awsmankit_-1DA1F2?style=for-the-badge&logo=twitter" alt="Follow me on Twitter" />
+<br>
+
+<div align="center">
+  <a href="https://twitter.com/awsmankit_" target="blank">
+    <img src="https://img.shields.io/twitter/follow/awsmankit_?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
   </a>
-</p>
+</div>
+
 
 👨‍💻 I'm an enthusiastic **Data Scientist** dedicated to unraveling insights through cutting-edge technology.
 
