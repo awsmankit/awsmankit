@@ -5,20 +5,20 @@
 </h1>
 
 <p align="left">
-  <a href="https://twitter.com/awsmankit_" target="blank">
-    <img src="https://img.shields.io/twitter/follow/awsmankit_?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
+  <a href="https://twitter.com/awsmankit_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow%20%40awsmankit_-1DA1F2?style=for-the-badge&logo=twitter" alt="Follow me on Twitter" />
   </a>
 </p>
 
-👨‍💻 Crafting insights as a **Data Scientist** in the realm of advanced technology.
+👨‍💻 I'm an enthusiastic **Data Scientist** dedicated to unraveling insights through cutting-edge technology.
 
-🔭 Currently channeling my efforts into the enigmatic world of **LLM (Language and Learning Model)**.
+🔭 Currently, I'm diving into the intricate world of **LLM (Language and Learning Model)** to extract meaningful patterns.
 
-🌱 Exploring the mystical realms of **Langchain, Machine Learning, and Deep Learning**.
+🌱 Exploring the fascinating territories of **Langchain, Machine Learning, and Deep Learning** keeps my curiosity alive.
 
-💬 I'm here to unravel the mysteries of **Data Science, LLM, Python, Flask, and more**.
+💬 Feel free to ignite conversations on **Data Science, LLM, Python, Flask, or any topic** you're passionate about.
 
-📫 Reach me through [email](mailto:iamankit497@gmail.com) for a magical exchange of thoughts! ✉️
+📫 Connect with me via [email](mailto:iamankit497@gmail.com) for insightful discussions and collaborative endeavors. ✉️
 
 
 <br/>
