@@ -41,6 +41,3 @@
 </h3>
 
 <br/>
-
-
-can you just hel;p me make it more creative . why do you think . act as a creator and think 
