@@ -1,17 +1,25 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Exploring Data Horizons: Crafting Insights through Code and Algorithms</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awsmankit" alt="awsmankit" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/awsmankit_" target="blank"><img src="https://img.shields.io/twitter/follow/awsmankit_?logo=twitter&style=for-the-badge" alt="awsmankit_" /></a> </p>
 
+- 💬 Ask me about **python, flask, machine learning**
+
 - 📫 How to reach me **iamankit497@gmail.com**
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/awsmankit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awsmankit_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ankitsingh282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitsingh282" height="30" width="40" /></a>
+<a href="https://kaggle.com/awsmankitt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="awsmankitt" height="30" width="40" /></a>
 <a href="https://instagram.com/awsmankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awsmankit" height="30" width="40" /></a>
+<a href="https://medium.com/@awsmankit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@awsmankit" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
