@@ -23,7 +23,7 @@
 
 <br/>
 
-<h2 align="center">Connect With Me</h2>
+<h2 align="center">Connect With Me 🫱🏽‍🫲🏽</h2>
 
 <p align="center">
 <a href="https://twitter.com/awsmankit_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="awsmankit_" height="30" width="40" /></a>
