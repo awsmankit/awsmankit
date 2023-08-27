@@ -4,15 +4,22 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ankit+Singh!;" />
 </h1>
 
-<p align="left"> <a href="https://twitter.com/awsmankit_" target="blank"><img src="https://img.shields.io/twitter/follow/awsmankit_?logo=twitter&style=for-the-badge" alt="awsmankit_" /></a> </p>
+<p align="left">
+  <a href="https://twitter.com/awsmankit_" target="blank">
+    <img src="https://img.shields.io/twitter/follow/awsmankit_?logo=twitter&style=for-the-badge" alt="Follow me on Twitter" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on **a chat app**
- 
-- 🌱 I’m currently learning **Langchain, Machine Learning, Deep Learning**
+👨‍💻 Crafting insights as a **Data Scientist** in the realm of advanced technology.
 
-- 💬 Ask me about **Python, Flask, Machine Learning ... or anything**
+🔭 Currently channeling my efforts into the enigmatic world of **LLM (Language and Learning Model)**.
 
-- 📫 Reach me [here](iamankit497@gmail.com)
+🌱 Exploring the mystical realms of **Langchain, Machine Learning, and Deep Learning**.
+
+💬 I'm here to unravel the mysteries of **Data Science, LLM, Python, Flask, and more**.
+
+📫 Reach me through [email](mailto:iamankit497@gmail.com) for a magical exchange of thoughts! ✉️
+
 
 <br/>
 
