@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **iamankit497@gmail.com**
 
- <hr/>
+<br/>
 
 <h2 align="center">Connect With Me</h2>
 
