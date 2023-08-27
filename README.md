@@ -14,10 +14,6 @@
 
 - 📫 Reach me at **iamankit497@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
  <hr/>
 
 <h2 align="center">Connect With Me</h2>
