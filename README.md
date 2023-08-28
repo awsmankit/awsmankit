@@ -47,7 +47,7 @@
 <br/>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awsmankit&show_icons=true&theme=onedark&hide_border=true&locale=en&layout=compact" alt="awsmankit" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awsmankit&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="awsmankit" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=awsmankit&show_icons=true&theme=dark&hide_border=true&locale=en" alt="awsmankit" /></p>
 </div>
 
