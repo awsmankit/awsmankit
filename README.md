@@ -1,5 +1,5 @@
-![MasterHead]
 
+<img align="center" src="https://i.pinimg.com/736x/a4/31/eb/a431ebb2134bac6357bc7924d4098ada.jpg" alt="Coder GIF" width="800">
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 
